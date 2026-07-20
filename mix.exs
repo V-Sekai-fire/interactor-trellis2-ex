@@ -22,11 +22,7 @@ defmodule Trellis2Ex.MixProject do
   defp deps do
     [
       {:nx, "~> 0.7"},
-      # Local git dependency: points at the nx-ggml checkout on this machine
-      # rather than the (currently stale, 4 commits behind) GitHub remote --
-      # swap to `git: "https://github.com/weftspun/nx-ggml"` once nx-ggml's
-      # local commits are pushed.
-      {:nx_ggml, git: "C:/Users/ernes/Desktop/nx-ggml", branch: "main"}
+      {:nx_ggml, git: "https://github.com/weftspun/nx-ggml", branch: "main"}
     ]
   end
 end

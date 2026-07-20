@@ -3,6 +3,6 @@
   "elixir_make": {:hex, :elixir_make, "0.10.0", "16577e2583a79bb79237bbff349619ef5d80afffc07eac6e4faf0d00e2ddaf7d", [:mix], [], "hexpm", "dc1f09fb7fa68866b886abd5f0f3c83553b1a19a52359a899e92af1bb3b31982"},
   "fine": {:hex, :fine, "0.1.6", "4bf7151493443c454aac9f2fa2f34f5fefd0346a83fb5586a016c4a135c63247", [:mix], [], "hexpm", "5638eb4495488e885ebec167fa57973e5c35e1a50c344eb7666c90ec1c4e3b12"},
   "nx": {:hex, :nx, "0.13.0", "43c57f529f17139821f6ed01a8aba6e045fef6722700c928cec2e2e3d2ee9560", [:mix], [{:complex, "~> 0.7", [hex: :complex, repo: "hexpm", optional: false]}, {:telemetry, "~> 0.4.0 or ~> 1.0", [hex: :telemetry, repo: "hexpm", optional: false]}], "hexpm", "38d2f37ee7e2f3aaa86b96f125643ffbca56a89576cd24d83b452597397b4fbd"},
-  "nx_ggml": {:git, "C:/Users/ernes/Desktop/nx-ggml", "de5676ee89e62bf96ea089f7ab2ed1beb9c64781", [branch: "main"]},
+  "nx_ggml": {:git, "https://github.com/weftspun/nx-ggml", "1afdb7aca3e2b65897bbff1e402751c74441c7d9", [branch: "main"]},
   "telemetry": {:hex, :telemetry, "1.4.2", "a0cb522801dffb1c49fe6e30561badffc7b6d0e180db1300df759faa22062855", [:rebar3], [], "hexpm", "928f6495066506077862c0d1646609eed891a4326bee3126ba54b60af61febb1"},
 }
