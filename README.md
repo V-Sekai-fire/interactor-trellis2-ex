@@ -15,4 +15,4 @@ Each script's header names the checkpoint and reference files it reads.
 
 ## Licence
 
-The licence is not stated.
+MIT. See [LICENSE](LICENSE).
